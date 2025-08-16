@@ -1,4 +1,8 @@
-// Java program to implement
+// Insert
+//  Time complexity: O(N)
+//  Space complexity: O(N) - N being size of the LinkedList (stored elements)
+// PrintList
+//  Time complexity: O(N) - N being size of LinekdList (stored elements)
 // a Singly Linked List
 class LinkedList {
 	constructor() {

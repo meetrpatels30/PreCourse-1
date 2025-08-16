@@ -1,3 +1,5 @@
+// All operations - Time complexity: O(1)
+// Space complexity: O(N) - N size of growing StackedLinkedlist (stored elements)
 class StackAsLinkedList {
 	static stackNode = class {
 		constructor(d) {
